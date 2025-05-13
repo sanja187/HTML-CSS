@@ -1,0 +1,120 @@
+.header{
+    border:2px solid white;
+    position:fixed;
+    background-color: #e5dddd;
+    width:99%;
+    height: 6%;
+}
+
+#Gourmet{
+    position: relative;
+    left: 2%;
+    top:20%;
+    font-size:x-large ;
+}
+#About{
+    position: relative;
+    left: 80%;
+    /* left: 200px; */
+    bottom:42%;
+    font-size:x-large ;
+}
+#Menu{
+    position: relative;
+    left: 85%;
+    /* left:250px; */
+    bottom:102%;
+    font-size:x-large;
+}
+#Contact{
+    position: relative;
+    left: 90%;
+    /* left: 300px; */
+    bottom:164%;
+    font-size:x-large ;
+}
+.image1{
+    background-image: url("./hamburger.jpg");
+    width: auto;
+    height: 800px;  
+}
+.image2{
+    background-image: url("./tablesetting2.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    position: relative;
+    left:200px;
+    top:100px;
+    height: 600px;
+    width: 500px;
+    border-radius: 2px;
+} 
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    
+}
+#id1{
+    text-align: center;
+} 
+#id2,#id3{
+    text-align: left;
+}
+#id3{
+    font-weight: lighter;
+}
+.text1{
+    /* border: 2px solid; */
+    height: 600px;
+    width: 500px;
+    text-align: center;
+    position: relative;
+    left: 800px;
+    bottom:500px;
+}
+.image3{
+    background-image: url("./tablesetting2.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    position: relative;
+    left:800px;
+    /* top:100px; */
+    height: 600px;
+    width: 500px;
+    border-radius: 2px;
+    bottom: 400px;
+} 
+#id4{
+    text-align: center;
+} 
+#id5,#id6,#id4{
+    text-align: left;
+}
+#id6{
+    font-weight: lighter;
+}
+.text2{
+    /* border: 2px solid; */
+    height: 600px;
+    width: 500px;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    bottom:1000px;
+}
+.footer{
+    height: 550px;
+    width: 100%;
+
+    bottom:1000px;
+    position: relative;
+}
+#submit{
+    width: 1400px;
+    height: 50px;
+}
+#submit{
+
+}
